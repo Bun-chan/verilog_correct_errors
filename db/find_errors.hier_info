@@ -1,0 +1,17 @@
+|find_errors
+a[0] => b.DATAB
+a[1] => b.DATAB
+a[2] => b.DATAB
+a[3] => b.DATAB
+c[0] => Equal0.IN5
+c[1] => Equal0.IN4
+c[2] => Equal0.IN3
+c[3] => Equal0.IN2
+c[4] => Equal0.IN1
+c[5] => Equal0.IN0
+b[0] <= b.DB_MAX_OUTPUT_PORT_TYPE
+b[1] <= b.DB_MAX_OUTPUT_PORT_TYPE
+b[2] <= b.DB_MAX_OUTPUT_PORT_TYPE
+b[3] <= b.DB_MAX_OUTPUT_PORT_TYPE
+
+
